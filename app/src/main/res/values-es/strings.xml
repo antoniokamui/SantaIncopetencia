@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantaIncopetencia</string>
+    <string name="botao_logar">Logar</string>
+    <string name="hint_senha">Contraseña</string>
+    <string name="hint_usuario">Introduzca el nombre de usuario</string>
+    <string name="label_senha">Seña</string>
+    <string name="label_usuario">Usuario</string>
+</resources>
